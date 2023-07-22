@@ -20,6 +20,7 @@
         <module>order-service</module>
         <module>inventory-service</module>
         <module>discovery-server</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
@@ -43,6 +44,11 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-gateway</artifactId>
+                <version>4.0.6</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
