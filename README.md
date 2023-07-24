@@ -9,3 +9,5 @@
 
 
 ## Circuit Breaker
+![image](https://github.com/chunkityip/Backend-Microservice-Project-Eureka/assets/47329780/0c3bcf4b-7bd2-4598-9d49-bc367f12ef35)
+
