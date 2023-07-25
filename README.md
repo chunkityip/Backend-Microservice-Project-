@@ -13,5 +13,7 @@
 ![image](https://github.com/chunkityip/Backend-Microservice-Project-Eureka/assets/47329780/6b162321-029a-41f7-8d06-3e3775cd24b3)
 ![image](https://github.com/chunkityip/Backend-Microservice-Project-Eureka/assets/47329780/eb356903-4a37-4cd7-bc58-62b9648fd8e7)
 
+## NotificationService
+![image](https://github.com/chunkityip/Backend-Microservice-Project-Eureka/assets/47329780/415da821-6aeb-44fa-8359-4c2a06daa6ee)
 
 
