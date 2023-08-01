@@ -1,3 +1,12 @@
+This is a Springboot-Microservice project to simulate a real enterprise microservice project
+1. Product Service - Create and View Products, acts , and run as Product Catalog
+2. Order Service - Ordering Products
+3. Inventory Service - Checking for the product is in stock or not
+4. Notification Service - Sending notifications, after an order is placed
+(Order service, inventory service, notification service are going to interact with each other)
+
+
+
 ## Api Gateway
 
 ![image](https://github.com/chunkityip/Backend-Microservice-Project-Eureka/assets/47329780/30e34134-93a3-43c5-bfaa-4195327c302e)
