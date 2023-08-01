@@ -1,9 +1,9 @@
-This is a Springboot-Microservice project to simulate a real enterprise microservice project
-1. Product Service - Create and View Products, acts , and run as Product Catalog
-2. Order Service - Ordering Products
-3. Inventory Service - Checking for the product is in stock or not
-4. Notification Service - Sending notifications, after an order is placed
-(Order service, inventory service, notification service are going to interact with each other)
+## This is a Springboot-Microservice project to simulate a real enterprise microservice project
+## 1. Product Service - Create and View Products, acts, and run as Product Catalog
+## 2. Order Service - Ordering Products
+## 3. Inventory Service - Checking for the product is in stock or not
+## 4. Notification Service - Sending notifications, after an order is placed
+## (Order service, inventory service, and notification service are going to interact with each other)
 
 
 
