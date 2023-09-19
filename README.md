@@ -1,12 +1,20 @@
-## This is a Springboot-Microservice project to simulate a real enterprise microservice project
+## Springboot-Microservice project 
+
 ![image](https://github.com/chunkityip/Backend-Springboot-Microservice/assets/47329780/fb339ea9-1e3d-4f54-966f-1c32f81d350c)
+# Overview
+This project is a microservices-based application designed to handle various aspects of an e-commerce system. It is composed of four primary services:
+1. Product Service - Create and View Products, acts, and run as a Product Catalog
+2. Order Service - Ordering Products
+3. Inventory Service - Checking for the product is in stock or not
+4. Notification Service - Sending notifications, after an order is placed
+5. Order service, inventory service, and notification service are going to interact with each other
 
-
-## 1. Product Service - Create and View Products, acts, and run as Product Catalog
-## 2. Order Service - Ordering Products
-## 3. Inventory Service - Checking for the product is in stock or not
-## 4. Notification Service - Sending notifications, after an order is placed
-## (Order service, inventory service, and notification service are going to interact with each other)
+# Technologies Used
+- Programming Languages: Java
+- Frameworks: Spring Boot
+- Message Queue: Apache Kafka
+- Database: MongoDB, MySQL
+- Containerization: Docker
 
 
 
