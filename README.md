@@ -1,4 +1,7 @@
 ## This is a Springboot-Microservice project to simulate a real enterprise microservice project
+![Untitled-2022-12-27-1030](https://github.com/chunkityip/Backend-Springboot-Microservice/assets/47329780/fb339ea9-1e3d-4f54-966f-1c32f81d350c)
+
+
 ## 1. Product Service - Create and View Products, acts, and run as Product Catalog
 ## 2. Order Service - Ordering Products
 ## 3. Inventory Service - Checking for the product is in stock or not
